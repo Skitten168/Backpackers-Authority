@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backpackers Authority", "Backpackers Authority.csproj", "{9E879408-4B10-4797-A4DD-F38DBBA72014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E879408-4B10-4797-A4DD-F38DBBA72014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E879408-4B10-4797-A4DD-F38DBBA72014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E879408-4B10-4797-A4DD-F38DBBA72014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E879408-4B10-4797-A4DD-F38DBBA72014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450F5BF9-C554-4909-919A-52FBC7E4ADF9}
+	EndGlobalSection
+EndGlobal
